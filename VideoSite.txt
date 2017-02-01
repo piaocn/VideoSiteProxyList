@@ -1,0 +1,14 @@
+!---------------------------------------------
+!	Video site list for ADSafe
+!	Port 18186
+!	Version 0.1   
+!	
+!	2017.02.01
+!---------------------------------------------
+
+||youku.com
+||iqiyi.com
+||tudou.com
+||v.qq.com
+||youtube.com
+
